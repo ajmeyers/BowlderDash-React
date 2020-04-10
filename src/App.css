@@ -4,3 +4,8 @@
   background-image: linear-gradient(to right, gray, black, black, red);
   color: white; 
 }
+
+.title {
+   font-style: italic;
+   font-family: sans-serif;
+}
