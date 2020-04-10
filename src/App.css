@@ -1,12 +1,6 @@
-.Header {
-  
-}
-
-.Content {
-
-  
-}
-
-.Footer {
-  
+.jumbotron {
+  margin: 0;
+  padding: 10px;
+  background-image: linear-gradient(to right, gray, black, black, red);
+  color: white; 
 }
