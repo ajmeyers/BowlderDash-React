@@ -25,8 +25,10 @@ class Header extends Component {
                         </div>
                         <div>
                             <nav id="homeNavBar" class="navbar navbar-expand-sm navbar-dark bg-dark sticky-top">
+                                <a class="navbar-brand" href="https://github.com/ajmeyers"><img src={bowlingNavbar} alt="bowling navbar" height="64" width="64" /></a>
+                                <a class="navbar-brand" href="https://github.com/ajmeyers"><img src={bowlingNavbar} alt="bowling navbar" height="64" width="64" /></a>
+                                <a class="navbar-brand" href="https://github.com/ajmeyers"><img src={bowlingNavbar} alt="bowling navbar" height="64" width="64" /></a>
                                 <div class="container">
-                                    <a class="navbar-brand" href="https://github.com/ajmeyers"><img src={bowlingNavbar} alt="bowling navbar" height="64" width="64" /></a>
                                     <div id="bowlderDashNavBar">
                                         <ul class="navbar-nav">
                                             <li class="nav-item">

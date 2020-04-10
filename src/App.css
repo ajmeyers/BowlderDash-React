@@ -9,3 +9,12 @@
    font-style: italic;
    font-family: sans-serif;
 }
+
+a {
+  font-style: oblique;
+}
+
+.footer {
+  background-image: linear-gradient(to right, gray, white, gray);
+  padding: 20px 0;
+}
