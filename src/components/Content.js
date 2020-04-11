@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Carousel from './Carousel';
+import CarouselBowl from './Carousel';
 import bowlingHome from '../img/bowling_home.png';
 
 
@@ -25,7 +25,7 @@ class Content extends Component {
                         </div>
                     </div>
                     <div>
-                        <center><Carousel /></center>
+                        <center><CarouselBowl /></center>
                         <br />
                     </div>
                 </div>
